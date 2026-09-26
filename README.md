@@ -244,3 +244,5 @@ visibility into and no ability to argue with.
 - **Tests run against SQLite**, not Postgres, so `pytest` has zero external
   dependencies. `docker-compose` still runs the real thing against Postgres
   for the Dockerized evaluation path.
+## youtuse vidoe 
+[watch here](https://youtu.be/UVm7N6yFtys?si=QFPRILY3Um3z1NPi)
